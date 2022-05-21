@@ -1,6 +1,5 @@
 const fsPromises = require('fs/promises');
 const fs = require('fs');
-const fs2 = require('fs');
 const path = require('path');
 
 const target = '/';
